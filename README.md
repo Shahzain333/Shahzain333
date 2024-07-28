@@ -1,11 +1,12 @@
+![logo](https://github.com/Shahzain333/Shahzain333/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Shahzain khan</h1>
 <h3 align="center">A passionate full-stack developer from pakistan</h3>
 
-<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<img align="right" alt="coding" width="300px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzain333&label=Profile%20views&color=0e75b6&style=flat" alt="shahzain333" /> </p>
 
-- 🔭 I’m currently working on full-stack technologies
 - 👨‍💻 All of my projects are available at [https://github.com/Shahzain333](https://github.com/Shahzain333)
 
 - 📫 How to reach me **shahzainkhannaizi1234@gmail.com**
@@ -23,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzain333&show_icons=true&locale=en" alt="shahzain333" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzain333&" alt="shahzain333" /></p>
-
